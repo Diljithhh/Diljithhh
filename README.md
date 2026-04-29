@@ -69,8 +69,8 @@ I'm selectively available for remote work and freelance projects.
 
 If you're building something in Flutter or want to talk about integrating AI into a mobile product — reach out.
 
-📧 [your email here]
-💼 [LinkedIn URL here]
+📧 diljithdevflutter@gmail.com
+💼 https://www.linkedin.com/in/diljith-v-d-03a058238/
 🌍 Based in Thrissur, Kerala — working across time zones
 
 ---
